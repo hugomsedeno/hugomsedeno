@@ -44,3 +44,6 @@ Desarrollador de software especializado en el diseño y construcción de **aplic
 | :--- | :--- | :--- |
 | **[java-gestion-ficheros-persistencia](https://github.com/hugomsedeno/java-gestion-ficheros-persistencia)** | `Backend · Java I/O` | Sistema de administración de directorios, algoritmo de borrado recursivo y persistencia secuencial de registros con `BufferedReader` y `BufferedWriter`. |
 | **[java-gestor-procesos-sistema](https://github.com/hugomsedeno/java-gestor-procesos-sistema)** | `Sistemas · Multiproceso` | Auditoría en tiempo real de procesos activos y núcleos de CPU con `ProcessHandle`, ejecución multiplataforma con `ProcessBuilder` y captura CLI. |
+| **[sql-sistema-gestion-rentacar](https://github.com/hugomsedeno/sql-sistema-gestion-rentacar)** | `Bases de Datos · SQL` | Diseño relacional DDL con integridad referencial (`FOREIGN KEY`, `CHECK`), consultas `INNER/LEFT JOIN`, transacciones ACID y control de accesos DCL (`GRANT`). |
+| **[web-portal-elearning-antares](https://github.com/hugomsedeno/web-portal-elearning-antares)** | `Desarrollo Web · HTML & CSS` | Portal corporativo multipágina para plataforma de teleformación SCORM maquetado con `CSS3 Flexbox`, cabecera fija y formulario de reservas. |
+
